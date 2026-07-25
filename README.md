@@ -1,4 +1,4 @@
-# 👋 **Viinay Kumaar Mamidi - Data Engineering Expert**
+# 👋 **Viinay Kumaar Mamidi - Data Engineering **
 
 ## 🎯 **Professional Summary**
 Seasoned Data Engineer with extensive expertise in building end-to-end data pipelines and real-time streaming solutions. Specialized in cloud platforms (GCP, AWS, Azure) and modern data technologies. Passionate about architecting scalable, reliable, and cost-efficient data solutions that drive business value.
@@ -170,7 +170,7 @@ I believe in building production-grade data solutions that embody:
 
 ## 🔗 **Connect & Explore**
 
-- **Linkedin Profile**: https://www.linkedin.com/in/viinaykumaarmamidi/
+
 - **GitHub Profile**: [github.com/ViinayKumaarMamidi](https://github.com/ViinayKumaarMamidi)
 - **All Repositories**: [75+ Active Projects](https://github.com/ViinayKumaarMamidi?tab=repositories)
 
@@ -184,6 +184,7 @@ I'm passionate about:
 - ☁️ Leveraging cloud technologies effectively
 - 📈 Transforming data into actionable insights
 - 🤝 Sharing knowledge and mentoring others
+- ☁️ Exploring AI tools and leveraging to build data pipelines
 
 **Interested in collaborating?** Feel free to explore my repositories, fork projects, or reach out with ideas!
 
