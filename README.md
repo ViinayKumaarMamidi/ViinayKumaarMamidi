@@ -170,6 +170,7 @@ I believe in building production-grade data solutions that embody:
 
 ## 🔗 **Connect & Explore**
 
+- **Linkedin Profile**: https://www.linkedin.com/in/viinaykumaarmamidi/
 - **GitHub Profile**: [github.com/ViinayKumaarMamidi](https://github.com/ViinayKumaarMamidi)
 - **All Repositories**: [75+ Active Projects](https://github.com/ViinayKumaarMamidi?tab=repositories)
 
