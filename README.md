@@ -21,10 +21,10 @@ Seasoned Data Engineer with extensive expertise in building end-to-end data pipe
 - **Storage**: GCS, S3, ADLS, Apache Iceberg, Delta Lake
 
 ### **💻 Programming & Tools**
-- **Languages**: Python, SQL (T-SQL), Scala, Jupyter Notebooks
-- **Tools**: dbt, SSIS, SSRS, PowerBI, Looker, Streamlit, n8n
+- **Languages**: Python, SQL (T-SQL), and Pyspark
+- **Tools**: dbt, SSIS, SSRS, PowerBI, ThoughtSpot, Looker, Streamlit, n8n
 - **Infrastructure**: Docker, GitHub Actions, Azure DevOps CI/CD, ARM Templates
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, TFS
 
 ---
 
