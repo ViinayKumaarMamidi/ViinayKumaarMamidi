@@ -8,12 +8,12 @@ Seasoned Data Engineer with extensive expertise in building end-to-end data pipe
 ## 🏆 **Key Expertise Areas**
 
 ### **☁️ Cloud Platforms**
-- **Google Cloud Platform (GCP)** - BigQuery, Dataproc, Pub/Sub, Cloud Run, Cloud Composer, Bigtable
-- **Amazon Web Services (AWS)** - S3, Redshift, Kinesis, Lambda, Airflow, EC2
-- **Microsoft Azure** - ADLS, Synapse, Data Factory, CosmosDB, Event Hub, Stream Analytics
+- **Google Cloud Platform (GCP)** - Databricks, BigQuery, Dataproc, Pub/Sub, Cloud Run, Cloud Composer, and GCS 
+- **Amazon Web Services (AWS)** - S3, DynamoDB, Redshift, Kinesis, Lambda, Airflow, EC2, and Glue 
+- **Microsoft Azure** - ADLS, Synapse, ADF, CosmosDB, MS-Fabric, Event Hub, Stream Analytics
 
 ### **📊 Data Technologies**
-- **Orchestration**: Apache Airflow, Cloud Composer, Azure Data Factory
+- **Orchestration**: Apache Airflow, Cloud Composer, Azure Data Factory, and SSIS 
 - **Streaming**: Apache Kafka, Confluent Cloud, Azure Event Hub, Apache Flink, Redpanda
 - **Data Warehousing**: Snowflake, BigQuery, Redshift, Azure Synapse, Databricks
 - **Data Processing**: PySpark, Apache Spark, dbt, Microsoft Fabric, Delta Lake
