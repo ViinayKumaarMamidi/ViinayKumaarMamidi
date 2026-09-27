@@ -1,7 +1,7 @@
 # 👋 **Viinay Kumaar Mamidi - Data Engineering **
 
 ## 🎯 **Professional Summary**
-Seasoned Data Engineer with extensive expertise in building end-to-end data pipelines and real-time streaming solutions. Specialized in cloud platforms (GCP, AWS, Azure) and modern data technologies. Passionate about building scalable, reliable, and cost-efficient data solutions that drive business value.
+Data Engineer with extensive expertise in building end-to-end batch data pipelines and real-time streaming solutions. Specialized in cloud platforms (GCP, AWS, Azure) and modern data technologies. Passionate about building scalable, reliable, and cost-efficient data solutions that drive business value.
 
 ---
 
